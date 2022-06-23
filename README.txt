@@ -1,14 +1,14 @@
-A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to it.
+a dUmB UsErScRiPt tHaT LeTs yOu sElEcT TeXt iN InPuT AnD TeXtArEa fIeLdS AnD ApPlY AlTeRnAtInG CaPs tO It.
 
 
-Currently only supports Tampermonkey.
+CuRrEnTlY OnLy sUpPoRtS TaMpErMoNkEy.
 
 
-Just select the text, right click, and the script should be in Tampermonkey's submenu.
+JuSt sElEcT ThE TeXt, RiGhT ClIcK, aNd tHe sCrIpT ShOuLd bE In tAmPeRmOnKeY'S SuBmEnU.
 
 
-Use cases: 
-    - Being annoying in chat rooms
-    - Being annoying on reddit
-    - Being annoying on 4chan
-    - Being annoying
+uSe cAsEs: 
+    - bEiNg aNnOyInG In cHaT RoOmS
+    - BeInG AnNoYiNg oN ReDdIt
+    - bEiNg aNnOyInG On 4ChAn
+    - bEiNg aNnOyInG
