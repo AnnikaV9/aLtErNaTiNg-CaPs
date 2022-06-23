@@ -1,4 +1,4 @@
-A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to them.
+A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to it.
 
 
 Currently only supports Tampermonkey.
