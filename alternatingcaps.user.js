@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         aLtErNaTiNg CaPs
-// @version      0.1.0
+// @version      0.1.1
 // @description  A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to it.
 // @author       AnnikaV9
 // @include      *
@@ -17,7 +17,7 @@
         }
         return chars.join("");
     };
-    var elements = document.getElementsByTagName("*");
+    var elements = document.querySelectorAll("input, textarea")
     for (var i = 0; i < elements.length; i += 1) {
       try {
         var textarea = elements[i];
