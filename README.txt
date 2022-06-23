@@ -8,7 +8,4 @@ JuSt sElEcT ThE TeXt, RiGhT ClIcK, aNd tHe sCrIpT ShOuLd bE In tAmPeRmOnKeY'S Su
 
 
 uSe cAsEs: 
-    - bEiNg aNnOyInG In cHaT RoOmS
-    - BeInG AnNoYiNg oN ReDdIt
-    - bEiNg aNnOyInG On 4ChAn
     - bEiNg aNnOyInG
