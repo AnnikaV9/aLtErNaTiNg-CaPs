@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         aLtErNaTiNg CaPs
 // @version      0.1.0
-// @Description  A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to it.
-// @Author       AnnikaV9
-// @include      *
+// @description  A dumb userscript that lets you select text in input and textarea fields and apply alternating caps to it.
+// @author       AnnikaV9
+// @match        *
 // @run-at       context-menu
 // @grant        none
 // ==/UserScript==
